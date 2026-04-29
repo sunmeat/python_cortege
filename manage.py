@@ -1,3 +1,7 @@
+# python -m venv env
+# env\Scripts\activate
+# pip install django
+
 #!/usr/bin/env python
 import os
 import sys
